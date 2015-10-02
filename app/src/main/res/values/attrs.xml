@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCalendarCard">
+       <attr name="weekOfFirstDay" format="integer"/>
+        <attr name="today" format="integer"/>
+        <attr name="numOfDays" format="integer"/>
+    </declare-styleable>
+
+
+</resources>
